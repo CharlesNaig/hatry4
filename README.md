@@ -125,123 +125,88 @@ Hey there! I'm Charles, a passionate **17-year-old developer** from the Philippi
   </table>
 </div>
 <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
-  
-## <img src="https://img.icons8.com/color/48/000000/toolbox.png" width="25"/> Tech Stack
 
-</div>
+  ## <img src="https://img.icons8.com/color/48/000000/toolbox.png" width="25"/> Tech Stack
 
-<div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 25px; margin: 15px 0; border: 1px solid rgba(255,255,255,0.1);">
+<div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 25px; border: 1px solid rgba(255,255,255,0.1);">
 
-### <img src="https://img.icons8.com/color/48/000000/code.png" width="20"/> Languages
+   <h3>
+  <img src="https://img.icons8.com/color/48/000000/code.png" width="20"/> Languages</h3>
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <br>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-</p>
+   <br><br>
 
-</div>
+  <h3>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="20"/> Frameworks & Libraries</h3>
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/Discord.js-%232C2F33.svg?style=for-the-badge&logo=discord&logoColor=%237289DA&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
 
-<div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 25px; margin: 15px 0; border: 1px solid rgba(255,255,255,0.1);">
+  <br><br>
 
-### <img src="https://img.icons8.com/color/48/000000/react-native.png" width="20"/> Frameworks & Libraries
+   <h3>
+  <img src="https://img.icons8.com/color/48/000000/database.png" width="20"/> Database & Storage</h3>
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <br>
-  <img src="https://img.shields.io/badge/Discord.js-%232C2F33.svg?style=for-the-badge&logo=discord&logoColor=%237289DA&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-</p>
+  <br><br>
 
-</div>
+  <h3>
+  <img src="https://img.icons8.com/color/48/000000/cloud.png" width="20"/> Cloud & Hosting</h3>
+    <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/Firebase%20Hosting-%23039BE5.svg?style=for-the-badge&logo=firebase&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
 
-<div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 25px; margin: 15px 0; border: 1px solid rgba(255,255,255,0.1);">
+  <br><br>
 
-### <img src="https://img.icons8.com/color/48/000000/database.png" width="20"/> Database & Storage
+  <h3>
+  <img src="https://img.icons8.com/color/48/000000/gear.png" width="20"/> Tools & Development</h3>
+    <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <br><br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-</p>
+  <h3>
+  <img src="https://img.icons8.com/color/48/000000/code-file.png" width="20"/> IDEs & Editors</h3>
+    <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/WebStorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
 
-</div>
+  <br><br>
 
-<div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 25px; margin: 15px 0; border: 1px solid rgba(255,255,255,0.1);">
+  <h3>
+  <img src="https://img.icons8.com/color/48/000000/server.png" width="20"/> Server Management</h3>
+    <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/Pterodactyl-%23000000.svg?style=for-the-badge&logo=pterodactyl&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
 
-### <img src="https://img.icons8.com/color/48/000000/cloud.png" width="20"/> Cloud & Hosting
+  <br><br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <br>
-  <img src="https://img.shields.io/badge/Firebase%20Hosting-%23039BE5.svg?style=for-the-badge&logo=firebase&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-</p>
-
-</div>
-
-<div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 25px; margin: 15px 0; border: 1px solid rgba(255,255,255,0.1);">
-
-### <img src="https://img.icons8.com/color/48/000000/gear.png" width="20"/> Tools & Development
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-</p>
-
-</div>
-
-<div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 25px; margin: 15px 0; border: 1px solid rgba(255,255,255,0.1);">
-
-### <img src="https://img.icons8.com/color/48/000000/code-file.png" width="20"/> IDEs & Editors
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/WebStorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-</p>
-
-</div>
-
-<div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 25px; margin: 15px 0; border: 1px solid rgba(255,255,255,0.1);">
-
-<img src="https://img.icons8.com/color/48/000000/server.png" width="20"/> Server Management
-<p align="center">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/Pterodactyl-%23000000.svg?style=for-the-badge&logo=pterodactyl&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <br>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-</p>
-</div>
-<div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 25px; margin: 15px 0; border: 1px solid rgba(255,255,255,0.1);">
-
-<div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 25px; margin: 15px 0; border: 1px solid rgba(255,255,255,0.1);">
-
-### <img src="https://img.icons8.com/color/48/000000/design.png" width="20"/> Design & Creative
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
-</p>
+   <h3>
+  <img src="https://img.icons8.com/color/48/000000/design.png" width="20"/> Design & Creative</h3>
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white&border_radius=15" style="margin: 3px; border-radius: 10px;"/>
 
 </div>
 
