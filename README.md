@@ -5,6 +5,8 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hatry4&style=for-the-badge&color=026904&label=Profile+Views" alt="Profile Views">
+  
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=17bd25560289&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 </div>
 
 <br>
