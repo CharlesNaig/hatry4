@@ -16,7 +16,7 @@
 Hey there! I'm Charles, a passionate **17-year-old developer** from the Philippines who loves creating digital experiences. Born on December 29, 2007, I've been on an exciting journey learning web development and design.
 
 - <img src="https://img.icons8.com/?size=48&id=0zx0uB1f2GbT&format=png" width="20"/> Currently mastering **Full-Stack Development** (Front-End & Back-End)
-- <img src="https://img.icons8.com/color/48/000000/money-bag.png" width="20"/> **Accepting freelance projects** starting at **<a href=""> $15-35 / ₱900-1,100 </a>**
+- <img src="https://img.icons8.com/color/48/000000/money-bag.png" width="20"/> **Accepting freelance projects** starting at **<a href=""> $40-200 </a>**
 - <img src="https://img.icons8.com/color/48/000000/goal.png" width="20"/> Goal: Building innovative web solutions that make a difference
 - <img src="https://img.icons8.com/color/48/000000/controller.png" width="20"/> When I'm not coding, you'll find me gaming or exploring new technologies or either chatting with my friends.
 - <img src="https://img.icons8.com/color/48/000000/email.png" width="20"/> Reach out: **cm122927@gmail.com**
