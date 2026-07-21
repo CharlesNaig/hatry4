@@ -1,4 +1,4 @@
-[![Header](./naig-v2.png)](https://naig.dev)
+[![Header](./assets/banner/naig-v2.png)](https://naig.dev)
 
 <h1 align="center"><img src="https://github.com/user-attachments/assets/3356f136-afb1-4b79-9336-f3bc02e85b81" width="30"/> Hi, I'm Charles Marcelo (hatry4/Naig)</h1>
 <h3 align="center"><img src="https://img.icons8.com/color/48/000000/rocket.png" width="20"/> Full-Stack Discord Bot & Web Developer | <img src="https://img.icons8.com/color/48/000000/controller.png" width="20"/> Gamer | <img src="https://github.com/user-attachments/assets/9dd3743f-b07d-4dbf-91eb-f3cbc706798b" width="20"/> FEU Student from the Philippines</h3>
@@ -33,95 +33,156 @@ Hey there! I'm Charles, a passionate **17-year-old developer** from the Philippi
   <table>
     <tr>
       <td align="center" width="250">
-        <a href="https://feuroosevelt.edu.ph/" target="_blank">
-          <img src="https://github.com/user-attachments/assets/5edd7194-bbd3-435e-8f23-23570de78fd8" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Certificate 1"/>
+        <a href="./assets/certifications/Best%20in%20computer%20system%20servicing%201%262.png" target="_blank">
+          <img src="./assets/certifications/Best%20in%20computer%20system%20servicing%201%262.png" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Best in Computer System Servicing certificate"/>
         </a><br>
         <strong>Best in Computer System Servicing</strong><br>
-        <sub><i>Far Eastern University Roosvelt (FEUR)</i></sub>
+        <sub><i>FEU Roosevelt (FEUR)</i></sub>
       </td>
       <td align="center" width="250">
-        <a href="https://www.freecodecamp.org/certification/devnaig/responsive-web-design" target="_blank">
-          <img width="800" height="537" alt="image" src="https://github.com/user-attachments/assets/1fc1a7f3-d5ff-47fb-bc84-49bf95f94485" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Certificate 2"/>
+        <a href="./assets/certifications/freeCodeCamp-ResponsiveWebDesign.png" target="_blank">
+          <img src="./assets/certifications/freeCodeCamp-ResponsiveWebDesign.png" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Responsive Web Design certificate"/>
         </a><br>
-        <strong>Responsive Web Design <br></strong><br>
-        <sub><i>Free Code Camp</i></sub>
+        <strong>Responsive Web Design</strong><br>
+        <sub><i>freeCodeCamp</i></sub>
       </td>
       <td align="center" width="250">
-        <a href="https://www.freecodecamp.org/certification/devnaig/javascript-algorithms-and-data-structures-v8" target="_blank">
-          <img width="1344" height="903" alt="freeCodeCamp-JavaScriptAlgorithms DataStructures" src="https://github.com/user-attachments/assets/bd54f09d-ca05-4ff4-8e8a-c7faef03ba70" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Certificate 3"/>
+        <a href="./assets/certifications/freeCodeCamp-JavaScriptAlgorithms%26DataStructures.png" target="_blank">
+          <img src="./assets/certifications/freeCodeCamp-JavaScriptAlgorithms%26DataStructures.png" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="JavaScript Algorithms and Data Structures certificate"/>
         </a><br>
         <strong>JavaScript Algorithms and Data Structures</strong><br>
-        <sub><i>Free Code Camp</i></sub>
+        <sub><i>freeCodeCamp</i></sub>
       </td>
     </tr>
     <tr>
       <td align="center" width="250">
-        <a href="https://www.freecodecamp.org/certification/devnaig/front-end-development-libraries" target="_blank">
-          <img width="1343" height="902" alt="freeCodeCamp-FrontEndDevelopmentLibraries" src="https://github.com/user-attachments/assets/c65a4d00-4724-48e4-94f3-3d3b77143958" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Certificate 4"/>
+        <a href="./assets/certifications/freeCodeCamp-FrontEndDevelopmentLibraries.png" target="_blank">
+          <img src="./assets/certifications/freeCodeCamp-FrontEndDevelopmentLibraries.png" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Front End Development Libraries certificate"/>
         </a><br>
         <strong>Front End Development Libraries</strong><br>
-        <sub><i>Free Code Camp</i></sub>
+        <sub><i>freeCodeCamp</i></sub>
       </td>
       <td align="center" width="250">
-        <a href="https://www.freecodecamp.org/certification/devnaig/scientific-computing-with-python-v7" target="_blank">
-          <img width="1343" height="902" alt="freeCodeCamp-ScientificComputingwithPython" src="https://github.com/user-attachments/assets/27b3da18-31b3-429b-b4c7-a27f1db15b52" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Certificate 5"/>
+        <a href="./assets/certifications/freeCodeCamp-ScientificComputingwithPython.png" target="_blank">
+          <img src="./assets/certifications/freeCodeCamp-ScientificComputingwithPython.png" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Scientific Computing with Python certificate"/>
         </a><br>
         <strong>Scientific Computing with Python</strong><br>
-        <sub><i>Free Code Camp</i></sub>
+        <sub><i>freeCodeCamp</i></sub>
       </td>
       <td align="center" width="250">
-        <a href="https://www.freecodecamp.org/certification/devnaig/legacy-front-end" target="_blank">
-          <img width="1343" height="903" alt="freeCodeCamp-LegacyFrontEnd" src="https://github.com/user-attachments/assets/fffa1183-6e3e-43ca-8943-4527257080ad" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Certificate 6"/>
+        <a href="./assets/certifications/freeCodeCamp-LegacyFrontEnd.png" target="_blank">
+          <img src="./assets/certifications/freeCodeCamp-LegacyFrontEnd.png" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Legacy Front End certificate"/>
         </a><br>
-        <strong>Legacy Front End<br></strong><br>
-        <sub><i>Free Code Camp</i></sub>
+        <strong>Legacy Front End</strong><br>
+        <sub><i>freeCodeCamp</i></sub>
       </td>
     </tr>
     <tr>
       <td align="center" width="250">
-        <a href="https://www.freecodecamp.org/certification/devnaig/machine-learning-with-python-v7" target="_blank">
-          <img width="1343" height="902" alt="freeCodeCamp-MachineLearningWithPython" src="https://github.com/user-attachments/assets/0b810d62-9611-4aaf-abab-7dee607c7da0" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Certificate 7"/>
+        <a href="./assets/certifications/freeCodeCamp-MachineLearningWithPython.png" target="_blank">
+          <img src="./assets/certifications/freeCodeCamp-MachineLearningWithPython.png" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Machine Learning with Python certificate"/>
         </a><br>
         <strong>Machine Learning With Python</strong><br>
-        <sub><i>Free Code Camp</i></sub>
+        <sub><i>freeCodeCamp</i></sub>
       </td>
       <td align="center" width="250">
-        <a href="https://simpli-web.app.link/e/Exx14URZuWb" target="_blank">
-          <img width="2342" height="1656" alt="simplilearn-Introduction-of-CSS-1" src="https://github.com/user-attachments/assets/68c487d8-8fe1-4be3-b62c-c10116499344" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Certificate 10"/>
+        <a href="./assets/certifications/simplilearn-Introduction-of-CSS_page-0001.jpg" target="_blank">
+          <img src="./assets/certifications/simplilearn-Introduction-of-CSS_page-0001.jpg" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Introduction to CSS certificate"/>
         </a><br>
-        <strong>Introduction of CSS<br></strong><br>
-        <sub><i>Simpli Learn | Skill UP</i></sub>
+        <strong>Introduction to CSS</strong><br>
+        <sub><i>Simplilearn | SkillUp</i></sub>
       </td>
       <td align="center" width="250">
-        <a href="https://simpli-web.app.link/e/rWypveSZuWb" target="_blank">
-          <img width="2342" height="1656" alt="simplilearn-Introduction-of-HTML-1" src="https://github.com/user-attachments/assets/86f1fabd-b118-402e-ac2f-92a767d60ee6" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Certificate 9"/>
+        <a href="./assets/certifications/simplilearn-Introduction-of-HTML_page-0001.jpg" target="_blank">
+          <img src="./assets/certifications/simplilearn-Introduction-of-HTML_page-0001.jpg" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Introduction to HTML certificate"/>
         </a><br>
-        <strong>Introduction of HTML<br></strong><br>
-        <sub><i>Simpli Learn | Skill UP</i></sub>
+        <strong>Introduction to HTML</strong><br>
+        <sub><i>Simplilearn | SkillUp</i></sub>
       </td>
     </tr>
     <tr>
       <td align="center" width="250">
-        <a href="https://simpli-web.app.link/e/lNgMjsSZuWb" target="_blank">
-          <img width="2342" height="1656" alt="simplilearn-Full-Stack Development-101" src="https://github.com/user-attachments/assets/15761174-dcb1-4bfa-be06-b17f8f60efe9" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Certificate 8"/>
+        <a href="./assets/certifications/simplilearn-Full-Stack%20Development-101_page-0001.jpg" target="_blank">
+          <img src="./assets/certifications/simplilearn-Full-Stack%20Development-101_page-0001.jpg" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Full-Stack Development 101 certificate"/>
         </a><br>
-        <strong>Full-Stack Development 101 <br></strong><br>
-        <sub><i>Simpli Learn | Skill UP</i></sub>
+        <strong>Full-Stack Development 101</strong><br>
+        <sub><i>Simplilearn | SkillUp</i></sub>
       </td>
       <td align="center" width="250">
-        <a href="https://simpli-web.app.link/e/JiUH57RZuWb" target="_blank">
-          <img width="2342" height="1656" alt="simplilearn-IntroductionToFrontEndDevelopment-1" src="https://github.com/user-attachments/assets/6a94a7af-37fb-4545-bae7-810fba98bf74" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Certificate 9"/>
+        <a href="./assets/certifications/simplilearn-IntroductionToFrontEndDevelopment_page-0001.jpg" target="_blank">
+          <img src="./assets/certifications/simplilearn-IntroductionToFrontEndDevelopment_page-0001.jpg" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Introduction to Front End Development certificate"/>
         </a><br>
         <strong>Introduction To Front End Development</strong><br>
-        <sub><i>Simpli Learn | Skill UP</i></sub>
-      </td>
+        <sub><i>Simplilearn | SkillUp</i></sub>
       </td>
       <td align="center" width="250">
-        <a href="https://www.hackerrank.com/certificates/iframe/b0b85f22cedb" target="_blank">
-          <img src="https://github.com/user-attachments/assets/46276902-255a-42ca-a5a9-6aacbcc00912" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Certificate 10"/>
+        <a href="./assets/certifications/frontend_developer_react%20certificate_page-0001.jpg" target="_blank">
+          <img src="./assets/certifications/frontend_developer_react%20certificate_page-0001.jpg" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Front End Developer React certificate"/>
         </a><br>
-        <strong>Front End Developer React<br></strong><br>
-        <sub><i>Hacker Rank</i></sub>
+        <strong>Front End Developer React</strong><br>
+        <sub><i>HackerRank</i></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="250">
+        <a href="./assets/certifications/claude-101.png" target="_blank">
+          <img src="./assets/certifications/claude-101.png" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Claude 101 certificate"/>
+        </a><br>
+        <strong>Claude 101</strong><br>
+        <sub><i>Anthropic</i></sub>
+      </td>
+      <td align="center" width="250">
+        <a href="./assets/certifications/Introduction-to-agent-skills-claude.png" target="_blank">
+          <img src="./assets/certifications/Introduction-to-agent-skills-claude.png" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Introduction to Agent Skills certificate"/>
+        </a><br>
+        <strong>Introduction to Agent Skills</strong><br>
+        <sub><i>Anthropic</i></sub>
+      </td>
+      <td align="center" width="250">
+        <a href="./assets/certifications/Coursera%20HQ6ABAQDU4P7_page-0001.jpg" target="_blank">
+          <img src="./assets/certifications/Coursera%20HQ6ABAQDU4P7_page-0001.jpg" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="AI Agents and Agentic AI with Python and Generative AI certificate"/>
+        </a><br>
+        <strong>AI Agents and Agentic AI with Python &amp; Generative AI</strong><br>
+        <sub><i>Vanderbilt University | Coursera</i></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="250">
+        <a href="./assets/certifications/FEU%20INSTITUTE%20OF%20TECNOLOGY.png" target="_blank">
+          <img src="./assets/certifications/FEU%20INSTITUTE%20OF%20TECNOLOGY.png" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="CTF Freshmen Challenge first place certificate"/>
+        </a><br>
+        <strong>1st Place — CTF Freshmen Challenge</strong><br>
+        <sub><i>FEU Institute of Technology</i></sub>
+      </td>
+      <td align="center" width="250">
+        <a href="./assets/certifications/Hacker_Rank_css_Basic_certificate_page-0001.jpg" target="_blank">
+          <img src="./assets/certifications/Hacker_Rank_css_Basic_certificate_page-0001.jpg" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="CSS Basic certificate"/>
+        </a><br>
+        <strong>CSS (Basic)</strong><br>
+        <sub><i>HackerRank</i></sub>
+      </td>
+      <td align="center" width="250">
+        <a href="./assets/certifications/Hacker_Rank_python_basic_certificate_page-0001.jpg" target="_blank">
+          <img src="./assets/certifications/Hacker_Rank_python_basic_certificate_page-0001.jpg" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Python Basic certificate"/>
+        </a><br>
+        <strong>Python (Basic)</strong><br>
+        <sub><i>HackerRank</i></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="250">
+        <a href="./assets/certifications/HackerRank_nodejs_intermediate_certificate_page-0001.jpg" target="_blank">
+          <img src="./assets/certifications/HackerRank_nodejs_intermediate_certificate_page-0001.jpg" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Node.js Intermediate certificate"/>
+        </a><br>
+        <strong>Node.js (Intermediate)</strong><br>
+        <sub><i>HackerRank</i></sub>
+      </td>
+      <td align="center" width="250">
+        <a href="./assets/certifications/javascript_intermediate%20certificate_page-0001.jpg" target="_blank">
+          <img src="./assets/certifications/javascript_intermediate%20certificate_page-0001.jpg" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="JavaScript Intermediate certificate"/>
+        </a><br>
+        <strong>JavaScript (Intermediate)</strong><br>
+        <sub><i>HackerRank</i></sub>
       </td>
     </tr>
   </table>
@@ -215,12 +276,18 @@ Hey there! I'm Charles, a passionate **17-year-old developer** from the Philippi
 ## <img src="https://img.icons8.com/color/48/000000/analytics.png" width="25"/> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CharlesNaig&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesNaig&layout=compact&langs_count=8&theme=shadow_green&hide_border=true&border_radius=10"/>
+  <a href="https://github.com/CharlesNaig" target="_blank">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=CharlesNaig&amp;show_icons=true&amp;theme=shadow_green&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;border_radius=10" alt="CharlesNaig's GitHub statistics"/>
+  </a>
+  <a href="https://github.com/CharlesNaig?tab=repositories" target="_blank">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CharlesNaig&amp;layout=compact&amp;langs_count=8&amp;theme=shadow_green&amp;hide_border=true&amp;border_radius=10" alt="CharlesNaig's most-used GitHub languages"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=CharlesNaig&theme=shadow_green&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+  <a href="https://github.com/CharlesNaig" target="_blank">
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=CharlesNaig&amp;theme=shadow_green&amp;hide_border=true&amp;border_radius=10" alt="CharlesNaig's GitHub contribution streak"/>
+  </a>
 </div>
 
 ## <img src="https://img.icons8.com/color/48/000000/globe.png" width="25"/> Let's Connect!
