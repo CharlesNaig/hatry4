@@ -184,6 +184,13 @@ Hey there! I'm Charles, a passionate **17-year-old developer** from the Philippi
         <strong>JavaScript (Intermediate)</strong><br>
         <sub><i>HackerRank</i></sub>
       </td>
+      <td align="center" width="250">
+        <a href="./assets/certifications/Agents&WorkFlows-OpenAi.png" target="_blank">
+          <img src="./assets/certifications/Agents&WorkFlows-OpenAi.png" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Agents and Work Flows"/>
+        </a><br>
+        <strong>Agents and Work Flows (Open AI)</strong><br>
+        <sub><i>HackerRank</i></sub>
+      </td>
     </tr>
   </table>
 </div>
